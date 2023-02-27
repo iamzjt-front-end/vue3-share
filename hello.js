@@ -25,7 +25,8 @@
 
 
 // v3
-const { effect, reactive } = require('@vue/reactivity');
+// import { reactive, effect } from '@vue/reactivity';
+import { reactive, effect } from './reactivity/index.js';
 
 let a = reactive({
 	value: 1
@@ -37,4 +38,4 @@ effect(() => {
 	console.log(b);
 });
 
-a.value = 4;
+a.value = 3;

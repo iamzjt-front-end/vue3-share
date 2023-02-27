@@ -2,6 +2,7 @@
   "name": "vue3-teach",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "repository": "git@github.com:iamzjt-front-end/vue3-teach.git",
   "author": "iamzjt-front-end <iamzjt@foxmail.com>",
   "license": "MIT",
