@@ -1,0 +1,11 @@
+{
+  "name": "vue3-teach",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:iamzjt-front-end/vue3-teach.git",
+  "author": "iamzjt-front-end <iamzjt@foxmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@vue/reactivity": "^3.2.47"
+  }
+}
